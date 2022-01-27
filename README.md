@@ -1,5 +1,6 @@
 # Interview Scheduler
 
+Interview Scheduler is an application that allows the user to schedule an interview for a student and choose an interviwer and a time slot. The app was built using React and custom hooks and allows users to add, edit and delete appointments in real time. Data is preserved in an API server using a PostgreSQL database. For quality assurance, the individual components were tested in isolation as well as End-to-End testing was performed.
 
 # Screenshots
 
